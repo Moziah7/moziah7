@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moziah7&label=Profile%20views&color=0e75b6&style=flat" alt="moziah7" /> </p>
 
-- 🔭 I began my journey as a frontend web developer, but now, equipped with full-stack capabilities, I navigate both web2 and web3 technologies. I take pleasure in pushing boundaries in the coding world and crafting innovative solutions. 🚀
+🔭 I began my journey as a frontend web developer, but now, equipped with full-stack capabilities, I navigate both web2 and web3 technologies. I take pleasure in pushing boundaries in the coding world and crafting innovative solutions. 🚀
 
 
 
