@@ -15,5 +15,5 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmetc.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetcigirgan) 
 
----
+--
 [![](https://visitcount.itsvg.in/api?id=moziah7&icon=7&color=1)](https://visitcount.itsvg.in)
