@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Çığırgan</h1>
-<h3 align="center">A passionate frontend developer from Antalya</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Antalya</h3>
 <p align="center">I began my journey as a frontend web developer, but now, equipped with full-stack capabilities, I navigate both web2 and web3 technologies. I take pleasure in pushing boundaries in the coding world and crafting innovative solutions 🚀</p> 
 
 
